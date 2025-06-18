@@ -1,0 +1,10 @@
+ Artificial Intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems.
+ Machine Learning (ML) is a type of AI that allows software applications to become more accurate at predicting outcomes without being explicitly programmed to do so.
+ Deep Learning (DL) is a type of ML that uses artificial neural networks with multiple layers to learn from data.
+ Natural Language Processing (NLP) is a field of AI that gives computers the ability to understand and generate human language.
+ Computer Vision (CV) is a field of AI that gives computers the ability to "see" and understand images and videos.
+ Robotics is the field of engineering that deals with the design, construction, operation, and application of robots.
+ Blockchain is a distributed database that is used to maintain a continuously growing list of records, called blocks.
+ Cryptocurrency is a digital or virtual currency that uses cryptography for security.
+ Quantum Computing (QC) is a type of computing that uses quantum-mechanical phenomena, such as superposition and entanglement, to perform operations on data.
+ Internet of Things (IoT) is a network of physical devices, vehicles, home appliances, and other items embedded with electronics, software, sensors, actuators, and network connectivity which enable these objects to connect and exchange data.

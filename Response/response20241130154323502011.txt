@@ -1,0 +1,20 @@
+<start_of_image>Dalam hal melihat gambar yang tajam dan jernih pada monitor atau layar, resolusi adalah salah satu faktor terpenting. Resolusi mengacu pada jumlah piksel yang ditampilkan pada layar, dan semakin tinggi jumlah pikselnya, semakin detail dan jernih gambarnya.
+
+Berikut adalah beberapa fakta menarik tentang resolusi gambar:
+
+1. Resolusi diukur dalam piksel per inci (PPI) atau piksel per sentimeter (PPC).
+2. Semakin tinggi PPI, semakin tinggi pula kepadatan pikselnya, yang menghasilkan gambar yang lebih tajam dan lebih rinci.
+3. Resolusi layar tipikal untuk monitor komputer adalah 1920 x 1080 piksel (Full HD), sedangkan resolusi layar tipikal untuk layar ponsel adalah 1080 x 1920 piksel (FHD+).
+4. Resolusi yang lebih tinggi memerlukan lebih banyak daya pemrosesan grafis, jadi penting untuk memastikan bahwa komputer atau perangkat Anda memiliki kartu grafis yang cukup kuat untuk menangani resolusi yang lebih tinggi.
+5. Saat memilih monitor atau layar, penting untuk mempertimbangkan resolusi layar serta ukuran dan jarak pandang layar.
+
+Berikut adalah tabel yang merangkum beberapa resolusi layar umum dan kepadatan pikselnya:
+
+| Resolusi | PPI (pada 24 inci) |
+|---|---|
+| 1920 x 1080 (Full HD) | 91 |
+| 2560 x 1440 (Quad HD) | 120 |
+| 3840 x 2160 (Ultra HD 4K) | 182 |
+| 5120 x 2880 (Ultra HD 5K) | 220 |
+
+Dengan memahami fakta-fakta ini tentang resolusi gambar, Anda dapat membuat pilihan tepat saat memilih monitor atau layar untuk kebutuhan Anda.
